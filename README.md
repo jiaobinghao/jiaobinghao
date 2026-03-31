@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 我是一个一个一个计算机专业的学生
 
 <!--
 **jiaobinghao/jiaobinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
