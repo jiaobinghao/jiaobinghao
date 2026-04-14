@@ -1,16 +1,20 @@
-## Hi there 👋 我是一个一个一个计算机专业的学生
+## Hi there 👋 我是一个计算机专业的学生
 
-<!--
-**jiaobinghao/jiaobinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 专业：计算机科学与技术
+- 🌱 目前正在学习：算法、后端开发与 AI 相关技术
+- 🔭 正在做：练习项目与课程作业
+- 🤝 希望：参与开源项目，和更多开发者一起成长
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages**: Python, Java, C/C++
+- **Tools**: Git, Linux, VS Code
+- **Interests**: Web Development, Machine Learning, Systems
+
+### 📫 Contact
+- Welcome to connect with me via GitHub Issues / Discussions.
+
+---
+✨ Thanks for visiting my profile!
