@@ -1,13 +1,9 @@
-## Hi there 👋 我是一个计算机专业的学生
+## Hi there 👋 我是一个一个一个一个计算机专业的学生
 
 ## 🙋‍♂️ Profile
 
-- 🎓 专业：计算机科学与技术
-- 💻 方向：后端开发 / AI 应用
-- 🌱 目前在学：算法、系统设计、机器学习
-- 🛠️ 技术栈：Python、Java、Linux、Git
-- 📫 联系方式：欢迎通过 GitHub 与我交流
-- ⚡ 座右铭：持续学习，持续输出
+- 🎓 major: computer science
+- 💻 working on：file system and ai infra
 
 <!--
 **jiaobinghao/jiaobinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
