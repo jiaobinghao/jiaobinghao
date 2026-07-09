@@ -4,7 +4,8 @@
 
 I am an undergraduate student at HUST(Huazhong University of Science and Technology) and will begin my graduate studies at USTC(University of Science and Technology of China) in September 2026.
 - 🎓 major: computer science
-- 💻 working on：file system and ai infra
+- 💻 working on: file system and ai infra
+- 🔭 programing language: python, c++, rust
 
 <!--
 **jiaobinghao/jiaobinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
