@@ -11,7 +11,8 @@ I am an undergraduate student at HUST(Huazhong University of Science and Technol
 ![](https://img.shields.io/badge/C-00599C?style=flat&labelColor=01427d&logoColor=6295cb&logo=c)
 ![](https://img.shields.io/badge/Rust-ffffff?style=flat&labelColor=ffffff&logoColor=000000&logo=rust)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jiaobinghao)](https://github.com/stats-organization/github-stats-extended)
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=jiaobinghao&langs_count=4)
+  
 <!--
 **jiaobinghao/jiaobinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
