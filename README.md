@@ -10,8 +10,6 @@ I am an undergraduate student at HUST(Huazhong University of Science and Technol
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&labelColor=FFD43B&logoColor=3776AB&logo=python)
 ![](https://img.shields.io/badge/C-00599C?style=flat&labelColor=01427d&logoColor=6295cb&logo=c)
 ![](https://img.shields.io/badge/Rust-ffffff?style=flat&labelColor=ffffff&logoColor=000000&logo=rust)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiaobinghao" alt="github activity graph" width="800">
   
 <!--
 **jiaobinghao/jiaobinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
