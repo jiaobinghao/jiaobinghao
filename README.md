@@ -11,6 +11,7 @@ I am an undergraduate student at HUST(Huazhong University of Science and Technol
 ![](https://img.shields.io/badge/C-00599C?style=flat&labelColor=01427d&logoColor=6295cb&logo=c)
 ![](https://img.shields.io/badge/Rust-ffffff?style=flat&labelColor=ffffff&logoColor=000000&logo=rust)
 
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=jiaobinghao&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <!--
 **jiaobinghao/jiaobinghao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
