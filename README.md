@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ Profile
 
-I am an undergraduate student at HUST(Huazhong University of Science and Technology) and will begin my graduate studies at USTC(University of Science and Technology of China) in September 2026.
+I am a graduate student at USTC (University of Science and Technology of China), having completed my undergraduate studies at HUST (Huazhong University of Science and Technology).
 
 - 🎓 Computer Science student
 - 💻 Interested in **file systems** and **AI infrastructure**
