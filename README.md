@@ -9,6 +9,7 @@ I am a graduate student at USTC (University of Science and Technology of China),
 - 🔭 Currently learning and building systems projects
 - ⚡ Languages: Python, C++, and Rust
 - 🤝 Open to collaboration and technical discussions
+- 😴 Sleep is more important than work and open source
 
 ### Languages & Frameworks
 
